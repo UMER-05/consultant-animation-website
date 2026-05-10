@@ -345,11 +345,11 @@ const App = () => {
                 </div>
                 <div className="contact-item">
                   <span className="contact-icon">📞</span>
-                  <span>+1 (212) 555-7890</span>
+                  <span>+44 (212) 555-7890</span>
                 </div>
                 <div className="contact-item">
                   <span className="contact-icon">📍</span>
-                  <span>New York, NY — Global Practice</span>
+                  <span> Berkeley Square, London</span>
                 </div>
               </div>
               <div className="social-links">
